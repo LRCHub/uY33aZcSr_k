@@ -1,4 +1,4 @@
-# HIMEHINA – ヒトガタ - HITOGATA
+# HIMEHINA – ヒトガタ
 
 > **歌詞登録ステータス：同期歌詞あり**
 
