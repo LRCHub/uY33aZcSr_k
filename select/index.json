@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "base_track": "ヒトガタ",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-03-18T07:20:27.966173Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒトガタ",
+      "artist": "HIMEHINA",
+      "has_synced": true,
+      "path": "select/01_ヒトガタ_HIMEHINA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒトガタ (inst.)",
+      "artist": "HIMEHINA",
+      "has_synced": true,
+      "path": "select/02_ヒトガタ_(inst.)_HIMEHINA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒトガタ",
+      "artist": "HIMEHINA",
+      "has_synced": true,
+      "path": "select/03_ヒトガタ_HIMEHINA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒトガタ",
+      "artist": "ヒメヒナ",
+      "has_synced": true,
+      "path": "select/04_ヒトガタ_ヒメヒナ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "人形-ヒトガタ-",
+      "artist": "マザリ",
+      "has_synced": false,
+      "path": "select/05_人形-ヒトガタ-_マザリ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒトガタ",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_ヒトガタ_HIMEHINA.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ヒトガタ",
+      "artist": "HIMEHINA",
+      "has_synced": true,
+      "path": "select/localdb_01_ヒトガタ_HIMEHINA.lrc",
+      "repo_name": "J8PUUv4LFkQ"
+    }
+  ]
+}
